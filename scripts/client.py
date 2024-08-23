@@ -7,7 +7,8 @@ class API():
 
     def __init__(self):
         """Initializes the API class instance. Currently, no initialization logic is required."""
-        pass
+        self.item_keys = set()
+        self.all_data = []
 
     def get_access_token(self):
         """Requests and retrieves an access token from the API.nThis method makes a POST request to the 
@@ -34,14 +35,33 @@ class API():
         Returns:
             dict: The JSON data retrieved from the API response.
         """
-        url = CNST.API.replace("<PLACE_HOLDER>", CNST.PLACE_HOLDER.replace("<PLAYLIST_ID>", CNST.PLAYLIST_ID))
-        CNST.API_HEADER["Authorization"] = CNST.API_HEADER["Authorization"].replace("<ACCESS_TOKEN>", self.get_access_token())
+        offset = 0
+        limit = 30
 
-        response = requests.request('GET', 
-                                    url = url,
-                                    headers = CNST.API_HEADER)
-        data = response.json()
-        return data
+        while offset <= 100:
+            url = CNST.API.replace("<PLACE_HOLDER>", CNST.PLACE_HOLDER.replace("<PLAYLIST_ID>", CNST.PLAYLIST_ID))
+            url += f"?offset={offset}&limit={limit}"
+            
+            CNST.API_HEADER["Authorization"] = CNST.API_HEADER["Authorization"].replace("<ACCESS_TOKEN>", self.get_access_token())
+
+            response = requests.request('GET', 
+                                        url=url,
+                                        headers=CNST.API_HEADER)
+            data = response.json()
+
+            items = data.get('items', [])
+            if items:
+                for item in items:
+                    self.item_keys.update(item.keys())
+
+            if not items or len(items) < limit:
+                self.all_data.extend(items)
+                break
+
+            self.all_data.extend(items)
+            offset += limit
+
+        return self.all_data, self.item_keys
     
 if __name__ == '__main__':
     api_instance = API()
@@ -49,5 +69,6 @@ if __name__ == '__main__':
     token = api_instance.get_access_token()
     print(f"Access Token: {token}")
 
-    data = api_instance.get_data()
+    data, keys = api_instance.get_data()
     print(f"Data: {json.dumps(data, indent=4)}")
+    print(f"Keys: {keys}")

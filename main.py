@@ -7,5 +7,6 @@ api_instance = cl.API()
 token = api_instance.get_access_token()
 print(f"Access Token: {token}")
 
-data = api_instance.get_data()
-print(f"Data: {json.dumps(data, indent=4)}")
+data, keys = api_instance.get_data()
+print(f"Data: {len(data)}")
+print(f"Keys: {keys}")
