@@ -8,7 +8,6 @@ __pycache__/
 
 # virtual environment
 dw/
-helper/constants.py
 .DS_Store
 
 # Distribution / packaging
