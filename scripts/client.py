@@ -80,32 +80,32 @@ class API():
 
         return self.all_data, self.item_keys
     
-    def flatten_dict(self, d, parent_key='', sep='_', exclude_keys=None):
+    def flatten_dict(self, d, parent_key='', sep='_', include_keys=None):
         """Flattens a nested dictionary.
 
         Args:
             d (dict): The dictionary to flatten.
             parent_key (str): The base key string to use for flattened keys.
             sep (str): The separator to use between parent and child keys.
-            exclude_keys (set): A set of keys to exclude from the flattened dictionary.
+            include_keys (set): A set of keys to include from the flattened dictionary.
 
         Returns:
             dict: A flattened dictionary with no nested structures.
         """
-        exclude_keys = exclude_keys or set()
+        include_keys = include_keys or set()
         items = []
         for k, v in d.items():
-            if k in exclude_keys:
+            if k not in include_keys:
                 continue
             new_key = f'{parent_key}{sep}{k}' if parent_key else k
             if isinstance(v, dict):
-                items.extend(self.flatten_dict(v, new_key, sep=sep, exclude_keys=exclude_keys).items())
-            elif isinstance(v, list):
+                items.extend(self.flatten_dict(v, new_key, sep=sep, include_keys=include_keys).items())
+            elif isinstance(v, list) and new_key != "track_artists":
                 for i, item in enumerate(v):
                     if isinstance(item, dict):
-                        items.extend(self.flatten_dict(item, f'{new_key}_{i}', sep=sep, exclude_keys=exclude_keys).items())
+                        items.extend(self.flatten_dict(item, f'{new_key}_{i+1}', sep=sep, include_keys=include_keys).items())
                     else:
-                        items.append((f'{new_key}_{i}', item))
+                        items.append((f'{new_key}_{i+1}', item))
             else:
                 items.append((new_key, v))
         return dict(items)

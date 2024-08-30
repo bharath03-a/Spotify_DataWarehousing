@@ -14,3 +14,6 @@ API = "https://api.spotify.com/v1/<PLACE_HOLDER>"
 PLACE_HOLDER = "playlists/<PLAYLIST_ID>/tracks"
 PLAYLIST_ID = "7x7TlR1Z4T2vtje93uhdtm"
 API_HEADER = {"Authorization": "Bearer <ACCESS_TOKEN>"}
+
+CSV_PATH = "./data/spotify_playlist.csv"
+JSON_PATH = "./data/spotify_playlist.json"
