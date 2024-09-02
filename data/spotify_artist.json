@@ -1,0 +1,3323 @@
+[
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        "followers": {
+            "href": null,
+            "total": 7614511
+        },
+        "genres": [
+            "new beat",
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2FgHPfRprDaylrSRVf1UlN",
+        "id": "2FgHPfRprDaylrSRVf1UlN",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb1edc6d40afbea5426d0cfe0f",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051741edc6d40afbea5426d0cfe0f",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1781edc6d40afbea5426d0cfe0f",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Thaman S",
+        "popularity": 71,
+        "type": "artist",
+        "uri": "spotify:artist:2FgHPfRprDaylrSRVf1UlN"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        "followers": {
+            "href": null,
+            "total": 3976222
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3AMxH9QIPZbK8ND8C9j4Ss",
+        "id": "3AMxH9QIPZbK8ND8C9j4Ss",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb70c34ba2f2f6f7f670700007",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517470c34ba2f2f6f7f670700007",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17870c34ba2f2f6f7f670700007",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Mani Sharma",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:3AMxH9QIPZbK8ND8C9j4Ss"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        "followers": {
+            "href": null,
+            "total": 14093114
+        },
+        "genres": [
+            "filmi",
+            "kollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6AiX12wXdXFoGJ2vk8zBjy",
+        "id": "6AiX12wXdXFoGJ2vk8zBjy",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebe60d7a790ebea50d205bda93",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174e60d7a790ebea50d205bda93",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178e60d7a790ebea50d205bda93",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Yuvan Shankar Raja",
+        "popularity": 75,
+        "type": "artist",
+        "uri": "spotify:artist:6AiX12wXdXFoGJ2vk8zBjy"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        "followers": {
+            "href": null,
+            "total": 51167893
+        },
+        "genres": [
+            "filmi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+        "id": "1mYsTxnqsietFxj1OgoGbG",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebb19af0ea736c6228d6eb539c",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178b19af0ea736c6228d6eb539c",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "A.R. Rahman",
+        "popularity": 80,
+        "type": "artist",
+        "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        },
+        "followers": {
+            "href": null,
+            "total": 881464
+        },
+        "genres": [
+            "filmi",
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4xlqU0G9EloUPHL1qlmWY6",
+        "id": "4xlqU0G9EloUPHL1qlmWY6",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb1a17377fa816d625eb8e7435",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051741a17377fa816d625eb8e7435",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1781a17377fa816d625eb8e7435",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Gopi Sundar",
+        "popularity": 64,
+        "type": "artist",
+        "uri": "spotify:artist:4xlqU0G9EloUPHL1qlmWY6"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7puWXcCM8Li3HnKrxc1bEH"
+        },
+        "followers": {
+            "href": null,
+            "total": 1932269
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7puWXcCM8Li3HnKrxc1bEH",
+        "id": "7puWXcCM8Li3HnKrxc1bEH",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b27368c87aa893669b5177ebc817",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e0268c87aa893669b5177ebc817",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000485168c87aa893669b5177ebc817",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Chakri",
+        "popularity": 52,
+        "type": "artist",
+        "uri": "spotify:artist:7puWXcCM8Li3HnKrxc1bEH"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        "followers": {
+            "href": null,
+            "total": 11366508
+        },
+        "genres": [
+            "filmi",
+            "modern bollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0sSxphmGskGCKlwB9xa6WU",
+        "id": "0sSxphmGskGCKlwB9xa6WU",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb2cfc402fa29cd2949023a8bf",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051742cfc402fa29cd2949023a8bf",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1782cfc402fa29cd2949023a8bf",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Himesh Reshammiya",
+        "popularity": 67,
+        "type": "artist",
+        "uri": "spotify:artist:0sSxphmGskGCKlwB9xa6WU"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+        },
+        "followers": {
+            "href": null,
+            "total": 1521339
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/05ppw2jwDfW9zo4mj6HNXp",
+        "id": "05ppw2jwDfW9zo4mj6HNXp",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b2732d748ba3399f16d3475519f4",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e022d748ba3399f16d3475519f4",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d000048512d748ba3399f16d3475519f4",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Anup Rubens",
+        "popularity": 48,
+        "type": "artist",
+        "uri": "spotify:artist:05ppw2jwDfW9zo4mj6HNXp"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        "followers": {
+            "href": null,
+            "total": 9949015
+        },
+        "genres": [
+            "desi hip hop",
+            "tamil hip hop",
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7zFBW2JxM4bgTTKxCRcS8Q",
+        "id": "7zFBW2JxM4bgTTKxCRcS8Q",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb42389d59e94635ebcbda35dd",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517442389d59e94635ebcbda35dd",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17842389d59e94635ebcbda35dd",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Hiphop Tamizha",
+        "popularity": 71,
+        "type": "artist",
+        "uri": "spotify:artist:7zFBW2JxM4bgTTKxCRcS8Q"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        "followers": {
+            "href": null,
+            "total": 316632
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0L5f9aJIaxQXTipZ7uQYiC",
+        "id": "0L5f9aJIaxQXTipZ7uQYiC",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb464b2ffbb9d51773deb32ab5",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174464b2ffbb9d51773deb32ab5",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178464b2ffbb9d51773deb32ab5",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Bheems Ceciroleo",
+        "popularity": 59,
+        "type": "artist",
+        "uri": "spotify:artist:0L5f9aJIaxQXTipZ7uQYiC"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0YpuXLh1Ck69AHkdfVyqXK"
+        },
+        "followers": {
+            "href": null,
+            "total": 9301
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0YpuXLh1Ck69AHkdfVyqXK",
+        "id": "0YpuXLh1Ck69AHkdfVyqXK",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebee3e906737065a7566acf381",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174ee3e906737065a7566acf381",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178ee3e906737065a7566acf381",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Prashant Pillai",
+        "popularity": 33,
+        "type": "artist",
+        "uri": "spotify:artist:0YpuXLh1Ck69AHkdfVyqXK"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        "followers": {
+            "href": null,
+            "total": 9142045
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5sSzCxHtgL82pYDvx2QyEU",
+        "id": "5sSzCxHtgL82pYDvx2QyEU",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebaa5350248841ba12e12467af",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174aa5350248841ba12e12467af",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178aa5350248841ba12e12467af",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Devi Sri Prasad",
+        "popularity": 71,
+        "type": "artist",
+        "uri": "spotify:artist:5sSzCxHtgL82pYDvx2QyEU"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        "followers": {
+            "href": null,
+            "total": 11683801
+        },
+        "genres": [
+            "kollywood",
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5VVN3xZw1i2qihfITZlvCZ",
+        "id": "5VVN3xZw1i2qihfITZlvCZ",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb0a5c692089af5c0f9cf839f3",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051740a5c692089af5c0f9cf839f3",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1780a5c692089af5c0f9cf839f3",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "G. V. Prakash",
+        "popularity": 72,
+        "type": "artist",
+        "uri": "spotify:artist:5VVN3xZw1i2qihfITZlvCZ"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
+        },
+        "followers": {
+            "href": null,
+            "total": 5960852
+        },
+        "genres": [
+            "filmi",
+            "kollywood",
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6CtYzQvENTdGq5LPPsePdV",
+        "id": "6CtYzQvENTdGq5LPPsePdV",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6772690000c46c51320f1823e1b38521de23fd",
+                "height": 1000,
+                "width": 1000
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6772690000dd2251320f1823e1b38521de23fd",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6772690000bac351320f1823e1b38521de23fd",
+                "height": 200,
+                "width": 200
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67726900008f7451320f1823e1b38521de23fd",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Vijay Antony",
+        "popularity": 66,
+        "type": "artist",
+        "uri": "spotify:artist:6CtYzQvENTdGq5LPPsePdV"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4TkLTkst9LQlJ0zAmXtXmv"
+        },
+        "followers": {
+            "href": null,
+            "total": 959159
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4TkLTkst9LQlJ0zAmXtXmv",
+        "id": "4TkLTkst9LQlJ0zAmXtXmv",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb05cc7345ee5effb1ad1993ad",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517405cc7345ee5effb1ad1993ad",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17805cc7345ee5effb1ad1993ad",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Ramana Gogula",
+        "popularity": 53,
+        "type": "artist",
+        "uri": "spotify:artist:4TkLTkst9LQlJ0zAmXtXmv"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/30106NcSlqGvsHC5gHzuMV"
+        },
+        "followers": {
+            "href": null,
+            "total": 62
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/30106NcSlqGvsHC5gHzuMV",
+        "id": "30106NcSlqGvsHC5gHzuMV",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273ce48c5273f661d14ef312e34",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02ce48c5273f661d14ef312e34",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851ce48c5273f661d14ef312e34",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Gibrran",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:30106NcSlqGvsHC5gHzuMV"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ"
+        },
+        "followers": {
+            "href": null,
+            "total": 495774
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5w6bUd0SJtvdQ99pZm83PJ",
+        "id": "5w6bUd0SJtvdQ99pZm83PJ",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb930e6f7a35987457ef041f54",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174930e6f7a35987457ef041f54",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178930e6f7a35987457ef041f54",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Kalyani Malik",
+        "popularity": 43,
+        "type": "artist",
+        "uri": "spotify:artist:5w6bUd0SJtvdQ99pZm83PJ"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        "followers": {
+            "href": null,
+            "total": 2479165
+        },
+        "genres": [
+            "vintage tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/12l1SqSNsg2mI2IcXpPWjR",
+        "id": "12l1SqSNsg2mI2IcXpPWjR",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb6ae88e7129c13bdf20d82f96",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051746ae88e7129c13bdf20d82f96",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1786ae88e7129c13bdf20d82f96",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "M. M. Keeravani",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1r1OzQa3UTOd13rRVQ4nQM"
+        },
+        "followers": {
+            "href": null,
+            "total": 68
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1r1OzQa3UTOd13rRVQ4nQM",
+        "id": "1r1OzQa3UTOd13rRVQ4nQM",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273669c6b5fa42f8fb380060d8b",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02669c6b5fa42f8fb380060d8b",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851669c6b5fa42f8fb380060d8b",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Srinu Vaitla",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:1r1OzQa3UTOd13rRVQ4nQM"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6rJEPOU61Xa5igQ7Dleloz"
+        },
+        "followers": {
+            "href": null,
+            "total": 182
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6rJEPOU61Xa5igQ7Dleloz",
+        "id": "6rJEPOU61Xa5igQ7Dleloz",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273f5e6abff516abdd6182a9845",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02f5e6abff516abdd6182a9845",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851f5e6abff516abdd6182a9845",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Sathya.C",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:6rJEPOU61Xa5igQ7Dleloz"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        "followers": {
+            "href": null,
+            "total": 31641130
+        },
+        "genres": [
+            "desi hip hop",
+            "filmi",
+            "tamil hip hop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4zCH9qm4R2DADamUHMCa6O",
+        "id": "4zCH9qm4R2DADamUHMCa6O",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb0f0be2054fe9594026a6b843",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051740f0be2054fe9594026a6b843",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1780f0be2054fe9594026a6b843",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Anirudh Ravichander",
+        "popularity": 83,
+        "type": "artist",
+        "uri": "spotify:artist:4zCH9qm4R2DADamUHMCa6O"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1Fp2NbOlCFFrrkc29QbhBC"
+        },
+        "followers": {
+            "href": null,
+            "total": 11685
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/1Fp2NbOlCFFrrkc29QbhBC",
+        "id": "1Fp2NbOlCFFrrkc29QbhBC",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273872577a9e646019e97782fda",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02872577a9e646019e97782fda",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851872577a9e646019e97782fda",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Chirantan Bhatt",
+        "popularity": 34,
+        "type": "artist",
+        "uri": "spotify:artist:1Fp2NbOlCFFrrkc29QbhBC"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4kbWDG96QZ2HkyVl9l1EmL"
+        },
+        "followers": {
+            "href": null,
+            "total": 158922
+        },
+        "genres": [
+            "mollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4kbWDG96QZ2HkyVl9l1EmL",
+        "id": "4kbWDG96QZ2HkyVl9l1EmL",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebbe7b7e5dac064a064fa627d8",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174be7b7e5dac064a064fa627d8",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178be7b7e5dac064a064fa627d8",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Rahul Raj",
+        "popularity": 53,
+        "type": "artist",
+        "uri": "spotify:artist:4kbWDG96QZ2HkyVl9l1EmL"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5X8nhiwO1lFtQKNKZGr7BF"
+        },
+        "followers": {
+            "href": null,
+            "total": 1858
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5X8nhiwO1lFtQKNKZGr7BF",
+        "id": "5X8nhiwO1lFtQKNKZGr7BF",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b27313fed5bb3ffda8a7c2413f48",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e0213fed5bb3ffda8a7c2413f48",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000485113fed5bb3ffda8a7c2413f48",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Micky J.Meyer",
+        "popularity": 24,
+        "type": "artist",
+        "uri": "spotify:artist:5X8nhiwO1lFtQKNKZGr7BF"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/24QEOAXm9MO3WypnMbFNSN"
+        },
+        "followers": {
+            "href": null,
+            "total": 39709
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/24QEOAXm9MO3WypnMbFNSN",
+        "id": "24QEOAXm9MO3WypnMbFNSN",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b2731f702861ed523c43d172eae1",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e021f702861ed523c43d172eae1",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d000048511f702861ed523c43d172eae1",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Sai Kartheek",
+        "popularity": 27,
+        "type": "artist",
+        "uri": "spotify:artist:24QEOAXm9MO3WypnMbFNSN"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4ZTli8xiH8txCfWJtulNXQ"
+        },
+        "followers": {
+            "href": null,
+            "total": 407816
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4ZTli8xiH8txCfWJtulNXQ",
+        "id": "4ZTli8xiH8txCfWJtulNXQ",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273bfc4b8e2c3807b5db52ef032",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02bfc4b8e2c3807b5db52ef032",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851bfc4b8e2c3807b5db52ef032",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Sunil Kashyap",
+        "popularity": 37,
+        "type": "artist",
+        "uri": "spotify:artist:4ZTli8xiH8txCfWJtulNXQ"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        "followers": {
+            "href": null,
+            "total": 8248227
+        },
+        "genres": [
+            "filmi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/29aw5YCdIw2FEXYyAJZI8l",
+        "id": "29aw5YCdIw2FEXYyAJZI8l",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb5bd97947f146486aee1fb0b1",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051745bd97947f146486aee1fb0b1",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1785bd97947f146486aee1fb0b1",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Harris Jayaraj",
+        "popularity": 73,
+        "type": "artist",
+        "uri": "spotify:artist:29aw5YCdIw2FEXYyAJZI8l"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        "followers": {
+            "href": null,
+            "total": 1088443
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0WiZi3Q419nMpAQEqfBCbk",
+        "id": "0WiZi3Q419nMpAQEqfBCbk",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb86d311f84a0fbaaedeefd640",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517486d311f84a0fbaaedeefd640",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17886d311f84a0fbaaedeefd640",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Mickey J. Meyer",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:0WiZi3Q419nMpAQEqfBCbk"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/43IDw3YzwADpAkdEzP81SZ"
+        },
+        "followers": {
+            "href": null,
+            "total": 313509
+        },
+        "genres": [
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/43IDw3YzwADpAkdEzP81SZ",
+        "id": "43IDw3YzwADpAkdEzP81SZ",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273952454e72100d33e37275b28",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02952454e72100d33e37275b28",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851952454e72100d33e37275b28",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Joshua Sridhar",
+        "popularity": 42,
+        "type": "artist",
+        "uri": "spotify:artist:43IDw3YzwADpAkdEzP81SZ"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        },
+        "followers": {
+            "href": null,
+            "total": 491664
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5ds7YHzRIeaGrAKGPR62fA",
+        "id": "5ds7YHzRIeaGrAKGPR62fA",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273536d296c5eb07d9e59c8b2a1",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02536d296c5eb07d9e59c8b2a1",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851536d296c5eb07d9e59c8b2a1",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Shekar Chandra",
+        "popularity": 58,
+        "type": "artist",
+        "uri": "spotify:artist:5ds7YHzRIeaGrAKGPR62fA"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "followers": {
+            "href": null,
+            "total": 2507611
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id": "0LyfQWJT6nXafLPZqxe9Of",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb6b134287e3095d2c84b7932a",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051746b134287e3095d2c84b7932a",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1786b134287e3095d2c84b7932a",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Various Artists",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP"
+        },
+        "followers": {
+            "href": null,
+            "total": 850242
+        },
+        "genres": [
+            "filmi",
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5a2WF7juQ5oilpZCqikRtP",
+        "id": "5a2WF7juQ5oilpZCqikRtP",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb6e3f043605bb1e1fd082aae8",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051746e3f043605bb1e1fd082aae8",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1786e3f043605bb1e1fd082aae8",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Rahul Nambiar",
+        "popularity": 59,
+        "type": "artist",
+        "uri": "spotify:artist:5a2WF7juQ5oilpZCqikRtP"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6qSiFzVEvHrioKS539lnCm"
+        },
+        "followers": {
+            "href": null,
+            "total": 236
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/6qSiFzVEvHrioKS539lnCm",
+        "id": "6qSiFzVEvHrioKS539lnCm",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273b100315305b42d54e0a7ba38",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02b100315305b42d54e0a7ba38",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851b100315305b42d54e0a7ba38",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Hiphop Tamizha,Deepak",
+        "popularity": 2,
+        "type": "artist",
+        "uri": "spotify:artist:6qSiFzVEvHrioKS539lnCm"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2LMljlTXjGr7jPZOBmK9My"
+        },
+        "followers": {
+            "href": null,
+            "total": 911364
+        },
+        "genres": [
+            "filmi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2LMljlTXjGr7jPZOBmK9My",
+        "id": "2LMljlTXjGr7jPZOBmK9My",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b27379aafea7e67ee1ce6bad8cca",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e0279aafea7e67ee1ce6bad8cca",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000485179aafea7e67ee1ce6bad8cca",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "S.A. Rajkumar",
+        "popularity": 51,
+        "type": "artist",
+        "uri": "spotify:artist:2LMljlTXjGr7jPZOBmK9My"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0C8QnUaq8Qh9om93L7UYpZ"
+        },
+        "followers": {
+            "href": null,
+            "total": 58
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0C8QnUaq8Qh9om93L7UYpZ",
+        "id": "0C8QnUaq8Qh9om93L7UYpZ",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b27380e0c3fca3cdfa9f64272a15",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e0280e0c3fca3cdfa9f64272a15",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000485180e0c3fca3cdfa9f64272a15",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Achchu",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:0C8QnUaq8Qh9om93L7UYpZ"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7GukH9jLUDZnIetjYfV704"
+        },
+        "followers": {
+            "href": null,
+            "total": 89808
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7GukH9jLUDZnIetjYfV704",
+        "id": "7GukH9jLUDZnIetjYfV704",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273446b0615f5de73441189c4b7",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02446b0615f5de73441189c4b7",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851446b0615f5de73441189c4b7",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Sai Karthik",
+        "popularity": 28,
+        "type": "artist",
+        "uri": "spotify:artist:7GukH9jLUDZnIetjYfV704"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/27UbUuYAM8Hc1BZKlydOB0"
+        },
+        "followers": {
+            "href": null,
+            "total": 650054
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/27UbUuYAM8Hc1BZKlydOB0",
+        "id": "27UbUuYAM8Hc1BZKlydOB0",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebe642969c6ab87c6fc9585950",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174e642969c6ab87c6fc9585950",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178e642969c6ab87c6fc9585950",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Raghu Kunche",
+        "popularity": 46,
+        "type": "artist",
+        "uri": "spotify:artist:27UbUuYAM8Hc1BZKlydOB0"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        "followers": {
+            "href": null,
+            "total": 479462
+        },
+        "genres": [
+            "tamil pop",
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/13M1OXRslYiaRoeaUx75uY",
+        "id": "13M1OXRslYiaRoeaUx75uY",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb63035d24f85b41502eadd230",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517463035d24f85b41502eadd230",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17863035d24f85b41502eadd230",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Achu",
+        "popularity": 49,
+        "type": "artist",
+        "uri": "spotify:artist:13M1OXRslYiaRoeaUx75uY"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6RO7sGAsA3D9HjYUQdEYnM"
+        },
+        "followers": {
+            "href": null,
+            "total": 1015554
+        },
+        "genres": [
+            "vintage tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6RO7sGAsA3D9HjYUQdEYnM",
+        "id": "6RO7sGAsA3D9HjYUQdEYnM",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b2736e98630522c2b6f693952a03",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e026e98630522c2b6f693952a03",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d000048516e98630522c2b6f693952a03",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Koti",
+        "popularity": 32,
+        "type": "artist",
+        "uri": "spotify:artist:6RO7sGAsA3D9HjYUQdEYnM"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        "followers": {
+            "href": null,
+            "total": 8912051
+        },
+        "genres": [
+            "filmi",
+            "modern bollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+        "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17890b6c3d093f9b02aad628eaf",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Vishal-Shekhar",
+        "popularity": 75,
+        "type": "artist",
+        "uri": "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy"
+        },
+        "followers": {
+            "href": null,
+            "total": 95365
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4eqUmWQwI1nm86edvyGsXy",
+        "id": "4eqUmWQwI1nm86edvyGsXy",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb8ab6bd1aa13404beec362a45",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051748ab6bd1aa13404beec362a45",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1788ab6bd1aa13404beec362a45",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Sandeep Chowta",
+        "popularity": 44,
+        "type": "artist",
+        "uri": "spotify:artist:4eqUmWQwI1nm86edvyGsXy"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        "followers": {
+            "href": null,
+            "total": 4313310
+        },
+        "genres": [
+            "filmi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0LSPREIgGMZXCuKVel7LVD",
+        "id": "0LSPREIgGMZXCuKVel7LVD",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebc3eae1d64408df9eb83d583f",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174c3eae1d64408df9eb83d583f",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178c3eae1d64408df9eb83d583f",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Karthik",
+        "popularity": 74,
+        "type": "artist",
+        "uri": "spotify:artist:0LSPREIgGMZXCuKVel7LVD"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        "followers": {
+            "href": null,
+            "total": 25785279
+        },
+        "genres": [
+            "filmi",
+            "modern bollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+        "id": "0oOet2f43PA68X5RxKobEy",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb36a7262247318ff0f1ad00da",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517436a7262247318ff0f1ad00da",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17836a7262247318ff0f1ad00da",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Shreya Ghoshal",
+        "popularity": 83,
+        "type": "artist",
+        "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rWg7UO7hhMRXZghjbD0Us"
+        },
+        "followers": {
+            "href": null,
+            "total": 1683
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0rWg7UO7hhMRXZghjbD0Us",
+        "id": "0rWg7UO7hhMRXZghjbD0Us",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b2735784127c9f6753e99f628c57",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e025784127c9f6753e99f628c57",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d000048515784127c9f6753e99f628c57",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Selva Ganesh",
+        "popularity": 7,
+        "type": "artist",
+        "uri": "spotify:artist:0rWg7UO7hhMRXZghjbD0Us"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        "followers": {
+            "href": null,
+            "total": 11709215
+        },
+        "genres": [
+            "classic kollywood",
+            "filmi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3m49WVMU4zCkaVEKb8kFW7",
+        "id": "3m49WVMU4zCkaVEKb8kFW7",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebec891c36864eb59b28f65cf8",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174ec891c36864eb59b28f65cf8",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178ec891c36864eb59b28f65cf8",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Ilaiyaraaja",
+        "popularity": 70,
+        "type": "artist",
+        "uri": "spotify:artist:3m49WVMU4zCkaVEKb8kFW7"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ZBMhU2xbBH3G4dEGGjsfo"
+        },
+        "followers": {
+            "href": null,
+            "total": 260151
+        },
+        "genres": [
+            "kollywood",
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2ZBMhU2xbBH3G4dEGGjsfo",
+        "id": "2ZBMhU2xbBH3G4dEGGjsfo",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b2733feb217297920f95b4a6540c",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e023feb217297920f95b4a6540c",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d000048513feb217297920f95b4a6540c",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Sundar C. Babu",
+        "popularity": 40,
+        "type": "artist",
+        "uri": "spotify:artist:2ZBMhU2xbBH3G4dEGGjsfo"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        },
+        "followers": {
+            "href": null,
+            "total": 331234
+        },
+        "genres": [
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3ocTwOjekTkFdD695eKuQr",
+        "id": "3ocTwOjekTkFdD695eKuQr",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebf3d44f3a6041376f07f5caaa",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174f3d44f3a6041376f07f5caaa",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178f3d44f3a6041376f07f5caaa",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Justin Prabhakaran",
+        "popularity": 56,
+        "type": "artist",
+        "uri": "spotify:artist:3ocTwOjekTkFdD695eKuQr"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        "followers": {
+            "href": null,
+            "total": 730293
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4A2XSc4OJjuPY4l6NjnrDj",
+        "id": "4A2XSc4OJjuPY4l6NjnrDj",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb2b06dcd4c944d353aec485a4",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051742b06dcd4c944d353aec485a4",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1782b06dcd4c944d353aec485a4",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Ram Miriyala",
+        "popularity": 61,
+        "type": "artist",
+        "uri": "spotify:artist:4A2XSc4OJjuPY4l6NjnrDj"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Aqv1id9EeqBbvc71ipoY4"
+        },
+        "followers": {
+            "href": null,
+            "total": 108809
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3Aqv1id9EeqBbvc71ipoY4",
+        "id": "3Aqv1id9EeqBbvc71ipoY4",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273eab8bd45084717b87647c200",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e0247657272f6829653f4e3f843",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000485147657272f6829653f4e3f843",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Radhakrishnan",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:3Aqv1id9EeqBbvc71ipoY4"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3c8fpQxdaCb3dtwXHOTCFc"
+        },
+        "followers": {
+            "href": null,
+            "total": 373
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/3c8fpQxdaCb3dtwXHOTCFc",
+        "id": "3c8fpQxdaCb3dtwXHOTCFc",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273da250eca2c40bc31810c971d",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02da250eca2c40bc31810c971d",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851da250eca2c40bc31810c971d",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Praveen Lakaraju",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:3c8fpQxdaCb3dtwXHOTCFc"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5"
+        },
+        "followers": {
+            "href": null,
+            "total": 1002455
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6CWBs7ul78QwnBrcOCwhf5",
+        "id": "6CWBs7ul78QwnBrcOCwhf5",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273698adc154cd17c618117ef46",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02698adc154cd17c618117ef46",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851698adc154cd17c618117ef46",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Sagar",
+        "popularity": 59,
+        "type": "artist",
+        "uri": "spotify:artist:6CWBs7ul78QwnBrcOCwhf5"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        "followers": {
+            "href": null,
+            "total": 773841
+        },
+        "genres": [
+            "filmi",
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3jw2v5ZbSWBinNaECXq8cJ",
+        "id": "3jw2v5ZbSWBinNaECXq8cJ",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebe46e5a243ecae091adc27853",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174e46e5a243ecae091adc27853",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178e46e5a243ecae091adc27853",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Ghibran",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:3jw2v5ZbSWBinNaECXq8cJ"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0MxrLrq7vFme5jY2PPwmsO"
+        },
+        "followers": {
+            "href": null,
+            "total": 54
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/0MxrLrq7vFme5jY2PPwmsO",
+        "id": "0MxrLrq7vFme5jY2PPwmsO",
+        "images": [],
+        "name": "Harrish Jayaraj",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:0MxrLrq7vFme5jY2PPwmsO"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        "followers": {
+            "href": null,
+            "total": 387941
+        },
+        "genres": [
+            "mollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3Q80PCEUBCiRhLSWdQApNt",
+        "id": "3Q80PCEUBCiRhLSWdQApNt",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebc71225e9be588a2142b6e12e",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174c71225e9be588a2142b6e12e",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178c71225e9be588a2142b6e12e",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Jakes Bejoy",
+        "popularity": 64,
+        "type": "artist",
+        "uri": "spotify:artist:3Q80PCEUBCiRhLSWdQApNt"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
+        },
+        "followers": {
+            "href": null,
+            "total": 26472
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7uc8AizyyDG8ujFdTxZ7q5",
+        "id": "7uc8AizyyDG8ujFdTxZ7q5",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb0eed6785ece5ff22be5e928c",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051740eed6785ece5ff22be5e928c",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1780eed6785ece5ff22be5e928c",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Chaitan Bharadwaj",
+        "popularity": 48,
+        "type": "artist",
+        "uri": "spotify:artist:7uc8AizyyDG8ujFdTxZ7q5"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        "followers": {
+            "href": null,
+            "total": 29363
+        },
+        "genres": [
+            "sandalwood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4penrzAbWok4rhnaZuwF9V",
+        "id": "4penrzAbWok4rhnaZuwF9V",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eba5a9e42d9168ce6917d187ea",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174a5a9e42d9168ce6917d187ea",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178a5a9e42d9168ce6917d187ea",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Judah Sandhy",
+        "popularity": 25,
+        "type": "artist",
+        "uri": "spotify:artist:4penrzAbWok4rhnaZuwF9V"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        "followers": {
+            "href": null,
+            "total": 639420
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4tejKImNVmDcORNBuZ1l14",
+        "id": "4tejKImNVmDcORNBuZ1l14",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebc1287c819b75d64bcc355338",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174c1287c819b75d64bcc355338",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178c1287c819b75d64bcc355338",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Kala Bhairava",
+        "popularity": 57,
+        "type": "artist",
+        "uri": "spotify:artist:4tejKImNVmDcORNBuZ1l14"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        "followers": {
+            "href": null,
+            "total": 9137090
+        },
+        "genres": [
+            "filmi",
+            "modern bollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+        "id": "7HCqGPJcQTyGJ2yqntbuyr",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb1dcbb331f2318db2dd2c6bcf",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051741dcbb331f2318db2dd2c6bcf",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1781dcbb331f2318db2dd2c6bcf",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Amit Trivedi",
+        "popularity": 69,
+        "type": "artist",
+        "uri": "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        "followers": {
+            "href": null,
+            "total": 16370280
+        },
+        "genres": [
+            "filmi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7qjJw7ZM2ekDSahLXPjIlN",
+        "id": "7qjJw7ZM2ekDSahLXPjIlN",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebef6a8800763bf428e85940a6",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174ef6a8800763bf428e85940a6",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178ef6a8800763bf428e85940a6",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Sid Sriram",
+        "popularity": 75,
+        "type": "artist",
+        "uri": "spotify:artist:7qjJw7ZM2ekDSahLXPjIlN"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        "followers": {
+            "href": null,
+            "total": 10425154
+        },
+        "genres": [
+            "filmi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1SJOL9HJ08YOn92lFcYf8a",
+        "id": "1SJOL9HJ08YOn92lFcYf8a",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb3f27a828c24d73cf0427e2e7",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051743f27a828c24d73cf0427e2e7",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1783f27a828c24d73cf0427e2e7",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Shankar Mahadevan",
+        "popularity": 76,
+        "type": "artist",
+        "uri": "spotify:artist:1SJOL9HJ08YOn92lFcYf8a"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6"
+        },
+        "followers": {
+            "href": null,
+            "total": 16774
+        },
+        "genres": [
+            "tamil pop",
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0NCSUqKWDdQrLf7688pRa6",
+        "id": "0NCSUqKWDdQrLf7688pRa6",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebb2df355d63b0d53488b61f7e",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174b2df355d63b0d53488b61f7e",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178b2df355d63b0d53488b61f7e",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Sudharshan Ashok",
+        "popularity": 53,
+        "type": "artist",
+        "uri": "spotify:artist:0NCSUqKWDdQrLf7688pRa6"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        "followers": {
+            "href": null,
+            "total": 520596
+        },
+        "genres": [
+            "tamil pop",
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0rL4uL3xfYOt2p7NHhS8qr",
+        "id": "0rL4uL3xfYOt2p7NHhS8qr",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebdab7075707730dbf3202905c",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174dab7075707730dbf3202905c",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178dab7075707730dbf3202905c",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Vishal Chandrashekhar",
+        "popularity": 61,
+        "type": "artist",
+        "uri": "spotify:artist:0rL4uL3xfYOt2p7NHhS8qr"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc"
+        },
+        "followers": {
+            "href": null,
+            "total": 88229
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7w4ACCsPEsD4KTxUNPXftc",
+        "id": "7w4ACCsPEsD4KTxUNPXftc",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273dac8a52d689fb8b3ef7649f8",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02dac8a52d689fb8b3ef7649f8",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851dac8a52d689fb8b3ef7649f8",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Sweekar Agasthi",
+        "popularity": 40,
+        "type": "artist",
+        "uri": "spotify:artist:7w4ACCsPEsD4KTxUNPXftc"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        "followers": {
+            "href": null,
+            "total": 308044
+        },
+        "genres": [
+            "filmi",
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5AWtJTaoFmLLrPwDR5dLPB",
+        "id": "5AWtJTaoFmLLrPwDR5dLPB",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb49f3956aecc4f9829f16159a",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517449f3956aecc4f9829f16159a",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17849f3956aecc4f9829f16159a",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Govind Vasantha",
+        "popularity": 62,
+        "type": "artist",
+        "uri": "spotify:artist:5AWtJTaoFmLLrPwDR5dLPB"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5f7vanPKdVpeby5G3UQjRr"
+        },
+        "followers": {
+            "href": null,
+            "total": 21
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/5f7vanPKdVpeby5G3UQjRr",
+        "id": "5f7vanPKdVpeby5G3UQjRr",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb54f99d382f88349a2a474023",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517454f99d382f88349a2a474023",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17854f99d382f88349a2a474023",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Marc D Muse",
+        "popularity": 2,
+        "type": "artist",
+        "uri": "spotify:artist:5f7vanPKdVpeby5G3UQjRr"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo"
+        },
+        "followers": {
+            "href": null,
+            "total": 2299795
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/1pDF5UltcypyatITA3Pduo",
+        "id": "1pDF5UltcypyatITA3Pduo",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb16916fa1c184d5cca9a80f53",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517416916fa1c184d5cca9a80f53",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17816916fa1c184d5cca9a80f53",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Mangli",
+        "popularity": 59,
+        "type": "artist",
+        "uri": "spotify:artist:1pDF5UltcypyatITA3Pduo"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        "followers": {
+            "href": null,
+            "total": 858079
+        },
+        "genres": [
+            "filmi",
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5VAyiDhBinVfc6RM5RKnLa",
+        "id": "5VAyiDhBinVfc6RM5RKnLa",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb3af5ceab962ad439b1f55d49",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051743af5ceab962ad439b1f55d49",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1783af5ceab962ad439b1f55d49",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Sam C.S.",
+        "popularity": 62,
+        "type": "artist",
+        "uri": "spotify:artist:5VAyiDhBinVfc6RM5RKnLa"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        "followers": {
+            "href": null,
+            "total": 2621463
+        },
+        "genres": [
+            "filmi",
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5FVBduYaeVBb6JIghza7v6",
+        "id": "5FVBduYaeVBb6JIghza7v6",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eba52538772891f66547e1ebc3",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174a52538772891f66547e1ebc3",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178a52538772891f66547e1ebc3",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Santhosh Narayanan",
+        "popularity": 73,
+        "type": "artist",
+        "uri": "spotify:artist:5FVBduYaeVBb6JIghza7v6"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+        },
+        "followers": {
+            "href": null,
+            "total": 155550
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/27dNKsHZrQKGnAlFCLDlzd",
+        "id": "27dNKsHZrQKGnAlFCLDlzd",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b27338e38729cc2414190fa0c7ef",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e0238e38729cc2414190fa0c7ef",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000485138e38729cc2414190fa0c7ef",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Mahati Swara Sagar",
+        "popularity": 52,
+        "type": "artist",
+        "uri": "spotify:artist:27dNKsHZrQKGnAlFCLDlzd"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl"
+        },
+        "followers": {
+            "href": null,
+            "total": 524890
+        },
+        "genres": [
+            "filmi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3cowxATurZfjWsJC4uEHsl",
+        "id": "3cowxATurZfjWsJC4uEHsl",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb99bdc061ba63681069bb2382",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517499bdc061ba63681069bb2382",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17899bdc061ba63681069bb2382",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Jassie Gift",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:3cowxATurZfjWsJC4uEHsl"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
+        },
+        "followers": {
+            "href": null,
+            "total": 50317
+        },
+        "genres": [
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5FOhBMFQo0pDhvISlFmxdi",
+        "id": "5FOhBMFQo0pDhvISlFmxdi",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebbc946b05e90de6e0f7d1aa1a",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174bc946b05e90de6e0f7d1aa1a",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178bc946b05e90de6e0f7d1aa1a",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Radhan",
+        "popularity": 49,
+        "type": "artist",
+        "uri": "spotify:artist:5FOhBMFQo0pDhvISlFmxdi"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx"
+        },
+        "followers": {
+            "href": null,
+            "total": 6416
+        },
+        "genres": [
+            "classic tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3T0lUjLJ29ApjVCaVxdLfx",
+        "id": "3T0lUjLJ29ApjVCaVxdLfx",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebe0be2ce9915d50a83816c9b4",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174e0be2ce9915d50a83816c9b4",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178e0be2ce9915d50a83816c9b4",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Shravan Bharadwaj",
+        "popularity": 33,
+        "type": "artist",
+        "uri": "spotify:artist:3T0lUjLJ29ApjVCaVxdLfx"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/00hL0oJD4pWef0kPYIaSTy"
+        },
+        "followers": {
+            "href": null,
+            "total": 1409843
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/00hL0oJD4pWef0kPYIaSTy",
+        "id": "00hL0oJD4pWef0kPYIaSTy",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b27309fb4b3a64ee936f98097b01",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e0209fb4b3a64ee936f98097b01",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000485109fb4b3a64ee936f98097b01",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "R. P. Patnaik",
+        "popularity": 52,
+        "type": "artist",
+        "uri": "spotify:artist:00hL0oJD4pWef0kPYIaSTy"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        "followers": {
+            "href": null,
+            "total": 337444
+        },
+        "genres": [
+            "tamil pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0wv5i0ds2z040yx7oL6UZy",
+        "id": "0wv5i0ds2z040yx7oL6UZy",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebf833760908fc690faf3ba05a",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174f833760908fc690faf3ba05a",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178f833760908fc690faf3ba05a",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Leon James",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:0wv5i0ds2z040yx7oL6UZy"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26FsIvdczntiZCsifDzKOK"
+        },
+        "followers": {
+            "href": null,
+            "total": 3279
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/26FsIvdczntiZCsifDzKOK",
+        "id": "26FsIvdczntiZCsifDzKOK",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb0474ec4f9e80fd239aaec945",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051740474ec4f9e80fd239aaec945",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1780474ec4f9e80fd239aaec945",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Pawan Ch",
+        "popularity": 41,
+        "type": "artist",
+        "uri": "spotify:artist:26FsIvdczntiZCsifDzKOK"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT"
+        },
+        "followers": {
+            "href": null,
+            "total": 37822
+        },
+        "genres": [
+            "telugu indie"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3lnECmHir8dXsqVV0QuruT",
+        "id": "3lnECmHir8dXsqVV0QuruT",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb8b6f728c7943dfe6e93a03d4",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab676161000051748b6f728c7943dfe6e93a03d4",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f1788b6f728c7943dfe6e93a03d4",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Sricharan Pakala",
+        "popularity": 38,
+        "type": "artist",
+        "uri": "spotify:artist:3lnECmHir8dXsqVV0QuruT"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        "followers": {
+            "href": null,
+            "total": 1037584
+        },
+        "genres": [
+            "sandalwood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2q1LRGJHpFxovU8Tz6OgRn",
+        "id": "2q1LRGJHpFxovU8Tz6OgRn",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebef0d801d386d15b5a2b37b06",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174ef0d801d386d15b5a2b37b06",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178ef0d801d386d15b5a2b37b06",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Ravi Basrur",
+        "popularity": 60,
+        "type": "artist",
+        "uri": "spotify:artist:2q1LRGJHpFxovU8Tz6OgRn"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/579pH2PjdCVSkAyFBv2Z8g"
+        },
+        "followers": {
+            "href": null,
+            "total": 1055
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/579pH2PjdCVSkAyFBv2Z8g",
+        "id": "579pH2PjdCVSkAyFBv2Z8g",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb46170d2757874016c9a89055",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517446170d2757874016c9a89055",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17846170d2757874016c9a89055",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "K M Radhakrishnan",
+        "popularity": 38,
+        "type": "artist",
+        "uri": "spotify:artist:579pH2PjdCVSkAyFBv2Z8g"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z"
+        },
+        "followers": {
+            "href": null,
+            "total": 23162
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/0goFlPiv6xhrgMwqwUss9Z",
+        "id": "0goFlPiv6xhrgMwqwUss9Z",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebad779c79361a243d96687aed",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174ad779c79361a243d96687aed",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178ad779c79361a243d96687aed",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "MM Sreelekha",
+        "popularity": 47,
+        "type": "artist",
+        "uri": "spotify:artist:0goFlPiv6xhrgMwqwUss9Z"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/78eKGjMa7yG0HpHyo8W3kA"
+        },
+        "followers": {
+            "href": null,
+            "total": 627569
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/78eKGjMa7yG0HpHyo8W3kA",
+        "id": "78eKGjMa7yG0HpHyo8W3kA",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273ed14bbfef8277616990ae730",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02ed14bbfef8277616990ae730",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851ed14bbfef8277616990ae730",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Raj-Koti",
+        "popularity": 24,
+        "type": "artist",
+        "uri": "spotify:artist:78eKGjMa7yG0HpHyo8W3kA"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+        },
+        "followers": {
+            "href": null,
+            "total": 790552
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5DxwUWyGp1uejyE80iJcn0",
+        "id": "5DxwUWyGp1uejyE80iJcn0",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebd524a16fa2ee73856511c09b",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174d524a16fa2ee73856511c09b",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178d524a16fa2ee73856511c09b",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Dhanunjay Seepana",
+        "popularity": 54,
+        "type": "artist",
+        "uri": "spotify:artist:5DxwUWyGp1uejyE80iJcn0"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4Ql23JSzeRcVgkYBqGwDMs"
+        },
+        "followers": {
+            "href": null,
+            "total": 998776
+        },
+        "genres": [
+            "classic kollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4Ql23JSzeRcVgkYBqGwDMs",
+        "id": "4Ql23JSzeRcVgkYBqGwDMs",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273dacc8eaa852843677a1a0b53",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02dacc8eaa852843677a1a0b53",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851dacc8eaa852843677a1a0b53",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Dhina",
+        "popularity": 44,
+        "type": "artist",
+        "uri": "spotify:artist:4Ql23JSzeRcVgkYBqGwDMs"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2RoNZ4xq4lxEcH5ECMs8Ev"
+        },
+        "followers": {
+            "href": null,
+            "total": 10
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/2RoNZ4xq4lxEcH5ECMs8Ev",
+        "id": "2RoNZ4xq4lxEcH5ECMs8Ev",
+        "images": [],
+        "name": "Sid Sriram,Shashaa Tirupati",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:2RoNZ4xq4lxEcH5ECMs8Ev"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        "followers": {
+            "href": null,
+            "total": 19280
+        },
+        "genres": [
+            "indian lo-fi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/4bOqW6xGi7n9315ErmJ2Um",
+        "id": "4bOqW6xGi7n9315ErmJ2Um",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebaa566679b0e00e6f398a669e",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174aa566679b0e00e6f398a669e",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178aa566679b0e00e6f398a669e",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Sunny M.R.",
+        "popularity": 52,
+        "type": "artist",
+        "uri": "spotify:artist:4bOqW6xGi7n9315ErmJ2Um"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        "followers": {
+            "href": null,
+            "total": 14326352
+        },
+        "genres": [
+            "filmi"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2ae6PxICSOZHvjqiCcgon8",
+        "id": "2ae6PxICSOZHvjqiCcgon8",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebea2b56271cf92bcff45c0ae9",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174ea2b56271cf92bcff45c0ae9",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178ea2b56271cf92bcff45c0ae9",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "S. P. Balasubrahmanyam",
+        "popularity": 78,
+        "type": "artist",
+        "uri": "spotify:artist:2ae6PxICSOZHvjqiCcgon8"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6lbIfNTi7YjJwrlu2R9j6m"
+        },
+        "followers": {
+            "href": null,
+            "total": 76748
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6lbIfNTi7YjJwrlu2R9j6m",
+        "id": "6lbIfNTi7YjJwrlu2R9j6m",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273eccd74d1aab1fe0360f1787d",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02eccd74d1aab1fe0360f1787d",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851eccd74d1aab1fe0360f1787d",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "S.V.Krishna Reddy",
+        "popularity": 39,
+        "type": "artist",
+        "uri": "spotify:artist:6lbIfNTi7YjJwrlu2R9j6m"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5"
+        },
+        "followers": {
+            "href": null,
+            "total": 3236119
+        },
+        "genres": [
+            "filmi",
+            "kollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5TB837uKG65w8Jnz5D0bS5",
+        "id": "5TB837uKG65w8Jnz5D0bS5",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb225d4ce84b5b29854e85ef06",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174225d4ce84b5b29854e85ef06",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178225d4ce84b5b29854e85ef06",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Vidyasagar",
+        "popularity": 68,
+        "type": "artist",
+        "uri": "spotify:artist:5TB837uKG65w8Jnz5D0bS5"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        "followers": {
+            "href": null,
+            "total": 343966
+        },
+        "genres": [
+            "mollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/50iBEPSw6kQ8GQkumXz7XZ",
+        "id": "50iBEPSw6kQ8GQkumXz7XZ",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb18045f4451e50f23177dd524",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517418045f4451e50f23177dd524",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17818045f4451e50f23177dd524",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Hesham Abdul Wahab",
+        "popularity": 65,
+        "type": "artist",
+        "uri": "spotify:artist:50iBEPSw6kQ8GQkumXz7XZ"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5M6rduuHHdpdGS0CdPZ79h"
+        },
+        "followers": {
+            "href": null,
+            "total": 270271
+        },
+        "genres": [
+            "vintage tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/5M6rduuHHdpdGS0CdPZ79h",
+        "id": "5M6rduuHHdpdGS0CdPZ79h",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b2734fd303ffd024f2a7863120b5",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e024fd303ffd024f2a7863120b5",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d000048514fd303ffd024f2a7863120b5",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "Kamalakar",
+        "popularity": 29,
+        "type": "artist",
+        "uri": "spotify:artist:5M6rduuHHdpdGS0CdPZ79h"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        "followers": {
+            "href": null,
+            "total": 46754
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/7Fa8B0rJSmeeGjYCJJXrb3",
+        "id": "7Fa8B0rJSmeeGjYCJJXrb3",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebdde0438e448e189892671b25",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174dde0438e448e189892671b25",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178dde0438e448e189892671b25",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Vivek Sagar",
+        "popularity": 40,
+        "type": "artist",
+        "uri": "spotify:artist:7Fa8B0rJSmeeGjYCJJXrb3"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
+        },
+        "followers": {
+            "href": null,
+            "total": 55220
+        },
+        "genres": [
+            "sandalwood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6oyTfygD0Skzy7RZOdUAZp",
+        "id": "6oyTfygD0Skzy7RZOdUAZp",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb636316e04da5d9c9aa694ce4",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174636316e04da5d9c9aa694ce4",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178636316e04da5d9c9aa694ce4",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Midhun Mukundan",
+        "popularity": 50,
+        "type": "artist",
+        "uri": "spotify:artist:6oyTfygD0Skzy7RZOdUAZp"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        "followers": {
+            "href": null,
+            "total": 1725074
+        },
+        "genres": [
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6LWyVEIBnx7MoRBhQxu9om",
+        "id": "6LWyVEIBnx7MoRBhQxu9om",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb439ae2d0bb4ac04b74af8421",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174439ae2d0bb4ac04b74af8421",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178439ae2d0bb4ac04b74af8421",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Anurag Kulkarni",
+        "popularity": 66,
+        "type": "artist",
+        "uri": "spotify:artist:6LWyVEIBnx7MoRBhQxu9om"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        },
+        "followers": {
+            "href": null,
+            "total": 963002
+        },
+        "genres": [
+            "filmi",
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/26R3WRFIf6FbbNAQuMIjkN",
+        "id": "26R3WRFIf6FbbNAQuMIjkN",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb400283cfddf6465801f54af8",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174400283cfddf6465801f54af8",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178400283cfddf6465801f54af8",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Hemachandra Vedala",
+        "popularity": 57,
+        "type": "artist",
+        "uri": "spotify:artist:26R3WRFIf6FbbNAQuMIjkN"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4rdoMv9JKSHf8sbKq17EcR"
+        },
+        "followers": {
+            "href": null,
+            "total": 132
+        },
+        "genres": [],
+        "href": "https://api.spotify.com/v1/artists/4rdoMv9JKSHf8sbKq17EcR",
+        "id": "4rdoMv9JKSHf8sbKq17EcR",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab67616d0000b273878caed0db629e43cf6f6383",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00001e02878caed0db629e43cf6f6383",
+                "height": 300,
+                "width": 300
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616d00004851878caed0db629e43cf6f6383",
+                "height": 64,
+                "width": 64
+            }
+        ],
+        "name": "SS Thaman",
+        "popularity": 0,
+        "type": "artist",
+        "uri": "spotify:artist:4rdoMv9JKSHf8sbKq17EcR"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+        },
+        "followers": {
+            "href": null,
+            "total": 402157
+        },
+        "genres": [
+            "telugu indie",
+            "tollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/2nWYQRy7Ikh7CyWnvZZouD",
+        "id": "2nWYQRy7Ikh7CyWnvZZouD",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5ebf2899df9f2fca0e8c17d49aa",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab67616100005174f2899df9f2fca0e8c17d49aa",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f178f2899df9f2fca0e8c17d49aa",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Mohana Bhogaraju",
+        "popularity": 49,
+        "type": "artist",
+        "uri": "spotify:artist:2nWYQRy7Ikh7CyWnvZZouD"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        },
+        "followers": {
+            "href": null,
+            "total": 288318
+        },
+        "genres": [
+            "desi pop",
+            "modern bollywood"
+        ],
+        "href": "https://api.spotify.com/v1/artists/3pQ4aA7dkolyjUAMrVScgh",
+        "id": "3pQ4aA7dkolyjUAMrVScgh",
+        "images": [
+            {
+                "url": "https://i.scdn.co/image/ab6761610000e5eb87e95d4cecb9771798b32e01",
+                "height": 640,
+                "width": 640
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000517487e95d4cecb9771798b32e01",
+                "height": 320,
+                "width": 320
+            },
+            {
+                "url": "https://i.scdn.co/image/ab6761610000f17887e95d4cecb9771798b32e01",
+                "height": 160,
+                "width": 160
+            }
+        ],
+        "name": "Manan Bhardwaj",
+        "popularity": 64,
+        "type": "artist",
+        "uri": "spotify:artist:3pQ4aA7dkolyjUAMrVScgh"
+    }
+]

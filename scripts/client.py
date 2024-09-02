@@ -7,8 +7,12 @@ class API():
 
     def __init__(self):
         """Initializes the API class instance. Currently, no initialization logic is required."""
-        self.item_keys = set()
-        self.all_data = []
+        self.item_keys = {'PLAYLISTS' : set(),
+                          'ARTISTS' : set(),
+                          'TRACKS' : set()}
+        self.all_data = {'PLAYLISTS' : [],
+                          'ARTISTS' : [],
+                          'TRACKS' : []}
 
     def get_access_token(self):
         """Requests and retrieves an access token from the API.nThis method makes a POST request to the 
@@ -45,41 +49,76 @@ class API():
                 for item in v:
                     if isinstance(item, dict):
                         self.extract_keys(item, keys_set)
-    
-    def get_data(self):
+
+    def get_spotify_data(self, api_type="PLAYLISTS", input_data=None):
         """Fetches data from the API using the provided access token.
+
+        Args:
+            api_type (str): The type of API data to fetch, either "PLAYLISTS" or other types.
+            input_data (list): A list of input data for queries, if applicable.
 
         Returns:
             tuple: A tuple containing the list of all items and a set of all keys.
         """
         offset = 0
-        limit = 30
+        limit = 25
+        try:
+            if api_type == "PLAYLISTS":
+                while offset <= 1000:
+                    url = CNST.API.replace("<PLACE_HOLDER>", CNST.PLAYLIST_API.replace("<PLAYLIST_ID>", CNST.PLAYLIST_ID))
+                    url += f"?offset={offset}&limit={limit}"
+                    CNST.API_HEADER["Authorization"] = CNST.API_HEADER["Authorization"].replace("<ACCESS_TOKEN>", self.get_access_token())
 
-        while offset <= 1000:
-            url = CNST.API.replace("<PLACE_HOLDER>", CNST.PLACE_HOLDER.replace("<PLAYLIST_ID>", CNST.PLAYLIST_ID))
-            url += f"?offset={offset}&limit={limit}"
-            
-            CNST.API_HEADER["Authorization"] = CNST.API_HEADER["Authorization"].replace("<ACCESS_TOKEN>", self.get_access_token())
+                    response = requests.get(url, headers=CNST.API_HEADER)
+                    response.raise_for_status()
 
-            response = requests.request('GET', 
-                                        url=url,
-                                        headers=CNST.API_HEADER)
-            data = response.json()
+                    data = response.json()
+                    items = data.get('items', [])
+                    if items:
+                        for item in items:
+                            self.extract_keys(item, self.item_keys[api_type])
 
-            items = data.get('items', [])
-            if items:
-                for item in items:
-                    self.extract_keys(item, self.item_keys)
+                    if not items or len(items) < limit:
+                        self.all_data[api_type].extend(items)
+                        break
 
-            if not items or len(items) < limit:
-                self.all_data.extend(items)
-                break
+                    self.all_data[api_type].extend(items)
+                    offset += limit
+            else:
+                step = limit
+                while offset < len(input_data):
+                    values = ",".join(input_data[offset:step])
+                    url = CNST.API.replace("<PLACE_HOLDER>", CNST.API_QUERY[api_type].replace("<IDS>", values))
+                    CNST.API_HEADER["Authorization"] = CNST.API_HEADER["Authorization"].replace("<ACCESS_TOKEN>", self.get_access_token())
 
-            self.all_data.extend(items)
-            offset += limit
+                    response = requests.get(url, headers=CNST.API_HEADER)
+                    response.raise_for_status()
 
-        return self.all_data, self.item_keys
-    
+                    data = response.json()
+                    items = data.get(api_type.lower(), [])
+                    if items:
+                        for item in items:
+                            self.extract_keys(item, self.item_keys[api_type])
+
+                    if not items or len(items) < limit:
+                        self.all_data[api_type].extend(items)
+                        break
+
+                    self.all_data[api_type].extend(items)
+                    offset += limit
+                    step += limit
+
+        except requests.exceptions.HTTPError as http_err:
+            print(f"HTTP error occurred: {http_err}")
+        except requests.exceptions.RequestException as req_err:
+            print(f"Request error occurred: {req_err}")
+        except ValueError as val_err:
+            print(f"Value error occurred: {val_err}")
+        except Exception as e:
+            print(f"An unexpected error occurred: {e}")
+
+        return self.all_data[api_type], self.item_keys[api_type]
+
     def flatten_dict(self, d, parent_key='', sep='_', include_keys=None):
         """Flattens a nested dictionary.
 
@@ -114,8 +153,7 @@ if __name__ == '__main__':
     api_instance = API()
     
     token = api_instance.get_access_token()
-    print(f"Access Token: {token}")
+    # print(f"Access Token: {token}")
 
-    data, keys = api_instance.get_data()
-    print(f"Data: {json.dumps(data, indent=4)}")
-    print(f"Keys: {keys}")
+    data, keys = api_instance.get_spotify_data(api_type="PLAYLISTS")
+    # print(f"Keys: {keys}")
