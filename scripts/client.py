@@ -9,10 +9,10 @@ class API():
         """Initializes the API class instance. Currently, no initialization logic is required."""
         self.item_keys = {'PLAYLISTS' : set(),
                           'ARTISTS' : set(),
-                          'TRACKS' : set()}
+                          'AUDIO_FEATURES' : set()}
         self.all_data = {'PLAYLISTS' : [],
                           'ARTISTS' : [],
-                          'TRACKS' : []}
+                          'AUDIO_FEATURES' : []}
 
     def get_access_token(self):
         """Requests and retrieves an access token from the API.nThis method makes a POST request to the 

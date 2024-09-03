@@ -17,7 +17,7 @@ API_HEADER = {"Authorization": "Bearer <ACCESS_TOKEN>"}
 
 API_QUERY = {
     "ARTISTS" : "artists?ids=<IDS>",
-    "TRACKS" : "tracks?ids=<IDS>"}
+    "AUDIO_FEATURES" : "audio-features?ids=<IDS>"}
 
 PLAYLIST_CSV_PATH = "./data/spotify_playlist.csv"
 PLAYLIST_JSON_PATH = "./data/spotify_playlist.json"
@@ -25,5 +25,20 @@ PLAYLIST_JSON_PATH = "./data/spotify_playlist.json"
 ARTIST_CSV_PATH = "./data/spotify_artist.csv"
 ARTIST_JSON_PATH = "./data/spotify_artist.json"
 
-TRACK_CSV_PATH = "./data/spotify_track.csv"
-TRACK_JSON_PATH = "./data/spotify_track.json"
+AUDIO_CSV_PATH = "./data/spotify_audio.csv"
+AUDIO_JSON_PATH = "./data/spotify_audio.json"
+
+PLAYLIST_KEYS = {
+    'added_at', 'added_by', 'id', 'type', 'track', 'album', 'album_type', 'name', 'release_date',
+    'release_date_precision', 'uri', 'artists', 'total_tracks', 'disc_number', 'track_number', 
+    'duration_ms', 'popularity'
+    }
+
+ARTIST_KEYS = {
+    'followers', 'total', 'genres', 'id', 'name', 'popularity', 'type'
+}
+
+AUDIO_KEYS = {
+    'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness',
+    'liveness', 'valence', 'tempo', 'type', 'id', 'duration_ms', 'time_signature'
+}
