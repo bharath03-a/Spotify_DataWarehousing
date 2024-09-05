@@ -44,3 +44,11 @@ AUDIO_KEYS = {
     'danceability', 'energy', 'key', 'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness',
     'liveness', 'valence', 'tempo', 'type', 'id', 'duration_ms', 'time_signature'
 }
+
+# Snowflake Table Schema
+AUDIO_FEATURES_SCHEMA = "(danceability float, energy float, key integer, loudness float, mode integer, \
+                         speechiness float, acousticness float, instrumentalness float, \
+                         liveness float, valence float, tempo float, id STRING(50), duration_ms integer,\
+                         time_signature integer)"
+
+ARTISTS_SCHEMA = "(followers_count integer, name STRING(50), artist_genres STRING(50), id STRING(50), popularity integer)"

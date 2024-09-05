@@ -2,7 +2,7 @@ import os
 import sys
 import snowflake.connector
 
-# Setting the path to import the constants module
+# setting the path to import the constants module
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import helper.db_constants as CNT
 
@@ -33,6 +33,28 @@ class SnowflakeConnector:
         except Exception as e:
             print(f"Error executing query: {e}")
             raise
+
+    def setup_env(self, dw_name, db_name, schema_name):
+        dw_query = f"CREATE WAREHOUSE IF NOT EXISTS {dw_name}"
+        db_query = f"CREATE DATABASE IF NOT EXISTS {db_name}"
+        schema_query = f"""
+                        USE DATABASE {db_name}
+                        CREATE SCHEMA IF NOT EXISTS {schema_name}
+                        """
+        
+        self.execute_query(dw_query)
+        self.execute_query(db_query)
+        self.execute_query(schema_query)
+
+        print(f"Created DataWarehouse: {dw_name}, Database: {db_name} and Schema: {schema_name}")
+
+    def create_table(self, dw_name, db_name, schema_name, table_name, table_schema):
+        self.execute_query(f"""USE WAREHOUSE {dw_name}
+                           USE DATABASE {db_name}
+                           USE SCHEMA {schema_name}""")
+        table_query = f"CREATE OR REPLACE TABLE {table_name}{table_schema}"
+
+        self.execute_query(table_query)
 
     def close(self):
         if self.cursor:
