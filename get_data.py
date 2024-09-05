@@ -49,20 +49,20 @@ class DataManipulation():
 if __name__ == '__main__':
     api_instance = cl.API()
 
-    # playlist_data, playlist_keys = api_instance.get_spotify_data(api_type="PLAYLISTS")
-    # print(f"Keys: {playlist_keys}")
+    playlist_data, playlist_keys = api_instance.get_spotify_data(api_type="PLAYLISTS")
+    print(f"Keys: {playlist_keys}")
 
     write_data = WriteData(api_instance=api_instance)
-    # write_data.write_playlist_csv(playlist_data, CNT.PLAYLIST_CSV_PATH, CNT.PLAYLIST_KEYS)
-    # write_data.write_json(playlist_data, CNT.PLAYLIST_JSON_PATH)
+    write_data.write_playlist_csv(playlist_data, CNT.PLAYLIST_CSV_PATH, CNT.PLAYLIST_KEYS)
+    write_data.write_json(playlist_data, CNT.PLAYLIST_JSON_PATH)
 
     spotify_dml = DataManipulation()
 
-    # artist_data, artist_keys = api_instance.get_spotify_data(api_type="ARTISTS", input_data=spotify_dml.get_artist_ids(CNT.PLAYLIST_CSV_PATH, "track_album_artists_1_uri"))
-    # print(f"Keys: {artist_keys}")
+    artist_data, artist_keys = api_instance.get_spotify_data(api_type="ARTISTS", input_data=spotify_dml.get_artist_ids(CNT.PLAYLIST_CSV_PATH, "track_album_artists_1_uri"))
+    print(f"Keys: {artist_keys}")
 
-    # write_data.write_playlist_csv(artist_data, CNT.ARTIST_CSV_PATH, CNT.ARTIST_KEYS)
-    # write_data.write_json(artist_data, CNT.ARTIST_JSON_PATH)
+    write_data.write_playlist_csv(artist_data, CNT.ARTIST_CSV_PATH, CNT.ARTIST_KEYS)
+    write_data.write_json(artist_data, CNT.ARTIST_JSON_PATH)
 
     audio_data, audiio_keys = api_instance.get_spotify_data(api_type="AUDIO_FEATURES", input_data=spotify_dml.get_track_ids(CNT.PLAYLIST_CSV_PATH, "track_id"))
     print(f"Keys: {audiio_keys}")

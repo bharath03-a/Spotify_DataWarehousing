@@ -84,6 +84,9 @@ class API():
 
                     self.all_data[api_type].extend(items)
                     offset += limit
+            elif api_type == "AUDIO_ANALYSIS":
+                # lot of technical details are present
+                pass
             else:
                 step = limit
                 while offset < len(input_data):

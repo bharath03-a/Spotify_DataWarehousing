@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 data/notes.txt
+helper/db_constants.py
 
 # C extensions
 *.so

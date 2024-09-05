@@ -19,6 +19,8 @@ API_QUERY = {
     "ARTISTS" : "artists?ids=<IDS>",
     "AUDIO_FEATURES" : "audio-features?ids=<IDS>"}
 
+AUDIO_ANALYSIS_API = "audio-analysis/<ID>"
+
 PLAYLIST_CSV_PATH = "./data/spotify_playlist.csv"
 PLAYLIST_JSON_PATH = "./data/spotify_playlist.json"
 
