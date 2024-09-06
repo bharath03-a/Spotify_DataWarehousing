@@ -38,8 +38,7 @@ class SnowflakeConnector:
         dw_query = f"CREATE WAREHOUSE IF NOT EXISTS {dw_name}"
         db_query = f"CREATE DATABASE IF NOT EXISTS {db_name}"
         schema_query = f"""
-                        USE DATABASE {db_name}
-                        CREATE SCHEMA IF NOT EXISTS {schema_name}
+                        CREATE SCHEMA IF NOT EXISTS {db_name}.{schema_name}
                         """
         
         self.execute_query(dw_query)
