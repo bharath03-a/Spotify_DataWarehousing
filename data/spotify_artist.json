@@ -5,7 +5,7 @@
         },
         "followers": {
             "href": null,
-            "total": 7614511
+            "total": 7640607
         },
         "genres": [
             "new beat",
@@ -41,7 +41,7 @@
         },
         "followers": {
             "href": null,
-            "total": 3976222
+            "total": 3983840
         },
         "genres": [
             "tollywood"
@@ -76,7 +76,7 @@
         },
         "followers": {
             "href": null,
-            "total": 14093114
+            "total": 14128061
         },
         "genres": [
             "filmi",
@@ -102,7 +102,7 @@
             }
         ],
         "name": "Yuvan Shankar Raja",
-        "popularity": 75,
+        "popularity": 76,
         "type": "artist",
         "uri": "spotify:artist:6AiX12wXdXFoGJ2vk8zBjy"
     },
@@ -112,7 +112,7 @@
         },
         "followers": {
             "href": null,
-            "total": 51167893
+            "total": 51364337
         },
         "genres": [
             "filmi"
@@ -137,7 +137,7 @@
             }
         ],
         "name": "A.R. Rahman",
-        "popularity": 80,
+        "popularity": 81,
         "type": "artist",
         "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
     },
@@ -147,7 +147,7 @@
         },
         "followers": {
             "href": null,
-            "total": 881464
+            "total": 886038
         },
         "genres": [
             "filmi",
@@ -173,7 +173,7 @@
             }
         ],
         "name": "Gopi Sundar",
-        "popularity": 64,
+        "popularity": 65,
         "type": "artist",
         "uri": "spotify:artist:4xlqU0G9EloUPHL1qlmWY6"
     },
@@ -183,7 +183,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1932269
+            "total": 1932073
         },
         "genres": [
             "tollywood"
@@ -218,7 +218,7 @@
         },
         "followers": {
             "href": null,
-            "total": 11366508
+            "total": 11366641
         },
         "genres": [
             "filmi",
@@ -254,7 +254,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1521339
+            "total": 1524421
         },
         "genres": [
             "tollywood"
@@ -289,7 +289,7 @@
         },
         "followers": {
             "href": null,
-            "total": 9949015
+            "total": 9974256
         },
         "genres": [
             "desi hip hop",
@@ -326,7 +326,7 @@
         },
         "followers": {
             "href": null,
-            "total": 316632
+            "total": 316732
         },
         "genres": [
             "tollywood"
@@ -361,7 +361,7 @@
         },
         "followers": {
             "href": null,
-            "total": 9301
+            "total": 9302
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/0YpuXLh1Ck69AHkdfVyqXK",
@@ -394,7 +394,7 @@
         },
         "followers": {
             "href": null,
-            "total": 9142045
+            "total": 9169624
         },
         "genres": [
             "tollywood"
@@ -429,7 +429,7 @@
         },
         "followers": {
             "href": null,
-            "total": 11683801
+            "total": 11717212
         },
         "genres": [
             "kollywood",
@@ -465,7 +465,7 @@
         },
         "followers": {
             "href": null,
-            "total": 5960852
+            "total": 5971683
         },
         "genres": [
             "filmi",
@@ -507,7 +507,7 @@
         },
         "followers": {
             "href": null,
-            "total": 959159
+            "total": 959114
         },
         "genres": [
             "tollywood"
@@ -575,7 +575,7 @@
         },
         "followers": {
             "href": null,
-            "total": 495774
+            "total": 495687
         },
         "genres": [
             "tollywood"
@@ -610,7 +610,7 @@
         },
         "followers": {
             "href": null,
-            "total": 2479165
+            "total": 2487220
         },
         "genres": [
             "vintage tollywood"
@@ -634,7 +634,7 @@
                 "width": 160
             }
         ],
-        "name": "M. M. Keeravani",
+        "name": "M. M. Keeravaani",
         "popularity": 60,
         "type": "artist",
         "uri": "spotify:artist:12l1SqSNsg2mI2IcXpPWjR"
@@ -645,7 +645,7 @@
         },
         "followers": {
             "href": null,
-            "total": 68
+            "total": 69
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/1r1OzQa3UTOd13rRVQ4nQM",
@@ -668,7 +668,7 @@
             }
         ],
         "name": "Srinu Vaitla",
-        "popularity": 0,
+        "popularity": 3,
         "type": "artist",
         "uri": "spotify:artist:1r1OzQa3UTOd13rRVQ4nQM"
     },
@@ -678,7 +678,7 @@
         },
         "followers": {
             "href": null,
-            "total": 182
+            "total": 183
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/6rJEPOU61Xa5igQ7Dleloz",
@@ -711,7 +711,7 @@
         },
         "followers": {
             "href": null,
-            "total": 31641130
+            "total": 31721572
         },
         "genres": [
             "desi hip hop",
@@ -748,7 +748,7 @@
         },
         "followers": {
             "href": null,
-            "total": 11685
+            "total": 11697
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/1Fp2NbOlCFFrrkc29QbhBC",
@@ -781,7 +781,7 @@
         },
         "followers": {
             "href": null,
-            "total": 158922
+            "total": 158931
         },
         "genres": [
             "mollywood"
@@ -816,7 +816,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1858
+            "total": 1860
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/5X8nhiwO1lFtQKNKZGr7BF",
@@ -849,7 +849,7 @@
         },
         "followers": {
             "href": null,
-            "total": 39709
+            "total": 39711
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/24QEOAXm9MO3WypnMbFNSN",
@@ -882,7 +882,7 @@
         },
         "followers": {
             "href": null,
-            "total": 407816
+            "total": 407815
         },
         "genres": [
             "tollywood"
@@ -917,7 +917,7 @@
         },
         "followers": {
             "href": null,
-            "total": 8248227
+            "total": 8281918
         },
         "genres": [
             "filmi"
@@ -952,7 +952,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1088443
+            "total": 1094603
         },
         "genres": [
             "tollywood"
@@ -987,7 +987,7 @@
         },
         "followers": {
             "href": null,
-            "total": 313509
+            "total": 313482
         },
         "genres": [
             "tamil pop"
@@ -1022,7 +1022,7 @@
         },
         "followers": {
             "href": null,
-            "total": 491664
+            "total": 491825
         },
         "genres": [
             "tollywood"
@@ -1057,7 +1057,7 @@
         },
         "followers": {
             "href": null,
-            "total": 2507611
+            "total": 2510073
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
@@ -1090,7 +1090,7 @@
         },
         "followers": {
             "href": null,
-            "total": 850242
+            "total": 850202
         },
         "genres": [
             "filmi",
@@ -1159,7 +1159,7 @@
         },
         "followers": {
             "href": null,
-            "total": 911364
+            "total": 911791
         },
         "genres": [
             "filmi"
@@ -1227,7 +1227,7 @@
         },
         "followers": {
             "href": null,
-            "total": 89808
+            "total": 89817
         },
         "genres": [
             "tollywood"
@@ -1262,7 +1262,7 @@
         },
         "followers": {
             "href": null,
-            "total": 650054
+            "total": 649972
         },
         "genres": [
             "tollywood"
@@ -1287,7 +1287,7 @@
             }
         ],
         "name": "Raghu Kunche",
-        "popularity": 46,
+        "popularity": 45,
         "type": "artist",
         "uri": "spotify:artist:27UbUuYAM8Hc1BZKlydOB0"
     },
@@ -1297,7 +1297,7 @@
         },
         "followers": {
             "href": null,
-            "total": 479462
+            "total": 479430
         },
         "genres": [
             "tamil pop",
@@ -1333,7 +1333,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1015554
+            "total": 1015448
         },
         "genres": [
             "vintage tollywood"
@@ -1368,7 +1368,7 @@
         },
         "followers": {
             "href": null,
-            "total": 8912051
+            "total": 9007005
         },
         "genres": [
             "filmi",
@@ -1437,7 +1437,7 @@
         },
         "followers": {
             "href": null,
-            "total": 4313310
+            "total": 4337960
         },
         "genres": [
             "filmi"
@@ -1472,7 +1472,7 @@
         },
         "followers": {
             "href": null,
-            "total": 25785279
+            "total": 25836129
         },
         "genres": [
             "filmi",
@@ -1541,7 +1541,7 @@
         },
         "followers": {
             "href": null,
-            "total": 11709215
+            "total": 11740571
         },
         "genres": [
             "classic kollywood",
@@ -1577,7 +1577,7 @@
         },
         "followers": {
             "href": null,
-            "total": 260151
+            "total": 260195
         },
         "genres": [
             "kollywood",
@@ -1613,7 +1613,7 @@
         },
         "followers": {
             "href": null,
-            "total": 331234
+            "total": 331258
         },
         "genres": [
             "tamil pop"
@@ -1648,7 +1648,7 @@
         },
         "followers": {
             "href": null,
-            "total": 730293
+            "total": 730562
         },
         "genres": [
             "tollywood"
@@ -1683,7 +1683,7 @@
         },
         "followers": {
             "href": null,
-            "total": 108809
+            "total": 108802
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/3Aqv1id9EeqBbvc71ipoY4",
@@ -1716,7 +1716,7 @@
         },
         "followers": {
             "href": null,
-            "total": 373
+            "total": 372
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/3c8fpQxdaCb3dtwXHOTCFc",
@@ -1749,7 +1749,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1002455
+            "total": 1002397
         },
         "genres": [
             "tollywood"
@@ -1758,17 +1758,17 @@
         "id": "6CWBs7ul78QwnBrcOCwhf5",
         "images": [
             {
-                "url": "https://i.scdn.co/image/ab67616d0000b273698adc154cd17c618117ef46",
+                "url": "https://i.scdn.co/image/ab67616d0000b273970bed77f95df32a44cb73c8",
                 "height": 640,
                 "width": 640
             },
             {
-                "url": "https://i.scdn.co/image/ab67616d00001e02698adc154cd17c618117ef46",
+                "url": "https://i.scdn.co/image/ab67616d00001e02970bed77f95df32a44cb73c8",
                 "height": 300,
                 "width": 300
             },
             {
-                "url": "https://i.scdn.co/image/ab67616d00004851698adc154cd17c618117ef46",
+                "url": "https://i.scdn.co/image/ab67616d00004851970bed77f95df32a44cb73c8",
                 "height": 64,
                 "width": 64
             }
@@ -1784,7 +1784,7 @@
         },
         "followers": {
             "href": null,
-            "total": 773841
+            "total": 775718
         },
         "genres": [
             "filmi",
@@ -1820,7 +1820,7 @@
         },
         "followers": {
             "href": null,
-            "total": 54
+            "total": 55
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/0MxrLrq7vFme5jY2PPwmsO",
@@ -1837,7 +1837,7 @@
         },
         "followers": {
             "href": null,
-            "total": 387941
+            "total": 392677
         },
         "genres": [
             "mollywood"
@@ -1872,7 +1872,7 @@
         },
         "followers": {
             "href": null,
-            "total": 26472
+            "total": 26492
         },
         "genres": [
             "tollywood"
@@ -1897,7 +1897,7 @@
             }
         ],
         "name": "Chaitan Bharadwaj",
-        "popularity": 48,
+        "popularity": 49,
         "type": "artist",
         "uri": "spotify:artist:7uc8AizyyDG8ujFdTxZ7q5"
     },
@@ -1942,7 +1942,7 @@
         },
         "followers": {
             "href": null,
-            "total": 639420
+            "total": 643890
         },
         "genres": [
             "tollywood"
@@ -1967,7 +1967,7 @@
             }
         ],
         "name": "Kala Bhairava",
-        "popularity": 57,
+        "popularity": 58,
         "type": "artist",
         "uri": "spotify:artist:4tejKImNVmDcORNBuZ1l14"
     },
@@ -1977,7 +1977,7 @@
         },
         "followers": {
             "href": null,
-            "total": 9137090
+            "total": 9161476
         },
         "genres": [
             "filmi",
@@ -2013,7 +2013,7 @@
         },
         "followers": {
             "href": null,
-            "total": 16370280
+            "total": 16413612
         },
         "genres": [
             "filmi"
@@ -2048,7 +2048,7 @@
         },
         "followers": {
             "href": null,
-            "total": 10425154
+            "total": 10461368
         },
         "genres": [
             "filmi"
@@ -2083,7 +2083,7 @@
         },
         "followers": {
             "href": null,
-            "total": 16774
+            "total": 16788
         },
         "genres": [
             "tamil pop",
@@ -2109,7 +2109,7 @@
             }
         ],
         "name": "Sudharshan Ashok",
-        "popularity": 53,
+        "popularity": 54,
         "type": "artist",
         "uri": "spotify:artist:0NCSUqKWDdQrLf7688pRa6"
     },
@@ -2119,7 +2119,7 @@
         },
         "followers": {
             "href": null,
-            "total": 520596
+            "total": 521855
         },
         "genres": [
             "tamil pop",
@@ -2155,7 +2155,7 @@
         },
         "followers": {
             "href": null,
-            "total": 88229
+            "total": 88225
         },
         "genres": [
             "tollywood"
@@ -2190,7 +2190,7 @@
         },
         "followers": {
             "href": null,
-            "total": 308044
+            "total": 309815
         },
         "genres": [
             "filmi",
@@ -2259,7 +2259,7 @@
         },
         "followers": {
             "href": null,
-            "total": 2299795
+            "total": 2308031
         },
         "genres": [
             "tollywood"
@@ -2294,7 +2294,7 @@
         },
         "followers": {
             "href": null,
-            "total": 858079
+            "total": 862212
         },
         "genres": [
             "filmi",
@@ -2330,7 +2330,7 @@
         },
         "followers": {
             "href": null,
-            "total": 2621463
+            "total": 2639395
         },
         "genres": [
             "filmi",
@@ -2366,7 +2366,7 @@
         },
         "followers": {
             "href": null,
-            "total": 155550
+            "total": 155559
         },
         "genres": [
             "tollywood"
@@ -2401,7 +2401,7 @@
         },
         "followers": {
             "href": null,
-            "total": 524890
+            "total": 525451
         },
         "genres": [
             "filmi"
@@ -2436,7 +2436,7 @@
         },
         "followers": {
             "href": null,
-            "total": 50317
+            "total": 50360
         },
         "genres": [
             "tamil pop"
@@ -2506,7 +2506,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1409843
+            "total": 1409743
         },
         "genres": [
             "tollywood"
@@ -2541,7 +2541,7 @@
         },
         "followers": {
             "href": null,
-            "total": 337444
+            "total": 338058
         },
         "genres": [
             "tamil pop"
@@ -2576,7 +2576,7 @@
         },
         "followers": {
             "href": null,
-            "total": 3279
+            "total": 3283
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/26FsIvdczntiZCsifDzKOK",
@@ -2609,7 +2609,7 @@
         },
         "followers": {
             "href": null,
-            "total": 37822
+            "total": 37827
         },
         "genres": [
             "telugu indie"
@@ -2644,7 +2644,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1037584
+            "total": 1041903
         },
         "genres": [
             "sandalwood"
@@ -2679,7 +2679,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1055
+            "total": 1059
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/579pH2PjdCVSkAyFBv2Z8g",
@@ -2712,7 +2712,7 @@
         },
         "followers": {
             "href": null,
-            "total": 23162
+            "total": 23199
         },
         "genres": [
             "tollywood"
@@ -2747,7 +2747,7 @@
         },
         "followers": {
             "href": null,
-            "total": 627569
+            "total": 627501
         },
         "genres": [
             "tollywood"
@@ -2782,7 +2782,7 @@
         },
         "followers": {
             "href": null,
-            "total": 790552
+            "total": 790546
         },
         "genres": [
             "tollywood"
@@ -2817,7 +2817,7 @@
         },
         "followers": {
             "href": null,
-            "total": 998776
+            "total": 998695
         },
         "genres": [
             "classic kollywood"
@@ -2869,7 +2869,7 @@
         },
         "followers": {
             "href": null,
-            "total": 19280
+            "total": 19389
         },
         "genres": [
             "indian lo-fi"
@@ -2904,7 +2904,7 @@
         },
         "followers": {
             "href": null,
-            "total": 14326352
+            "total": 14382726
         },
         "genres": [
             "filmi"
@@ -2939,7 +2939,7 @@
         },
         "followers": {
             "href": null,
-            "total": 76748
+            "total": 76742
         },
         "genres": [
             "tollywood"
@@ -2974,7 +2974,7 @@
         },
         "followers": {
             "href": null,
-            "total": 3236119
+            "total": 3245938
         },
         "genres": [
             "filmi",
@@ -3010,7 +3010,7 @@
         },
         "followers": {
             "href": null,
-            "total": 343966
+            "total": 345344
         },
         "genres": [
             "mollywood"
@@ -3045,7 +3045,7 @@
         },
         "followers": {
             "href": null,
-            "total": 270271
+            "total": 270242
         },
         "genres": [
             "vintage tollywood"
@@ -3080,7 +3080,7 @@
         },
         "followers": {
             "href": null,
-            "total": 46754
+            "total": 46783
         },
         "genres": [
             "tollywood"
@@ -3115,7 +3115,7 @@
         },
         "followers": {
             "href": null,
-            "total": 55220
+            "total": 55258
         },
         "genres": [
             "sandalwood"
@@ -3150,7 +3150,7 @@
         },
         "followers": {
             "href": null,
-            "total": 1725074
+            "total": 1735825
         },
         "genres": [
             "tollywood"
@@ -3185,7 +3185,7 @@
         },
         "followers": {
             "href": null,
-            "total": 963002
+            "total": 969261
         },
         "genres": [
             "filmi",
@@ -3221,7 +3221,7 @@
         },
         "followers": {
             "href": null,
-            "total": 132
+            "total": 133
         },
         "genres": [],
         "href": "https://api.spotify.com/v1/artists/4rdoMv9JKSHf8sbKq17EcR",
@@ -3254,7 +3254,7 @@
         },
         "followers": {
             "href": null,
-            "total": 402157
+            "total": 403407
         },
         "genres": [
             "telugu indie",
@@ -3290,7 +3290,7 @@
         },
         "followers": {
             "href": null,
-            "total": 288318
+            "total": 288833
         },
         "genres": [
             "desi pop",

@@ -19,6 +19,8 @@ class WriteData():
             writer = csv.DictWriter(f, fieldnames=flattened_keys)
             writer.writeheader()
             writer.writerows(flattened_data)
+        
+        return flattened_data
 
     def write_json(self, data, path):
         with open(path, "w") as f:
@@ -28,20 +30,20 @@ class DataManipulation():
     def __init__(self):
         pass
 
-    def read_data(self, path):
-        playlist_data = pd.read_csv(path, delimiter=",")
+    def read_data(self, data):
+        playlist_data = pd.DataFrame(data)
         return playlist_data
 
-    def get_artist_ids(self, path, col):
-        data = self.read_data(path)
+    def get_artist_ids(self, data, col):
+        data = self.read_data(data)
         artists = data[col].unique().tolist()
 
         split_fn = lambda x : x.split(":")[-1]
 
         return list(map(split_fn, artists))
     
-    def get_track_ids(self, path, col):
-        data = self.read_data(path)
+    def get_track_ids(self, data, col):
+        data = self.read_data(data)
         tracks = data[col].unique().tolist()
         print(type(tracks))
         return tracks
@@ -53,19 +55,19 @@ if __name__ == '__main__':
     print(f"Keys: {playlist_keys}")
 
     write_data = WriteData(api_instance=api_instance)
-    write_data.write_playlist_csv(playlist_data, CNT.PLAYLIST_CSV_PATH, CNT.PLAYLIST_KEYS)
+    playlist_data = write_data.write_playlist_csv(playlist_data, CNT.PLAYLIST_CSV_PATH, CNT.PLAYLIST_KEYS)
     write_data.write_json(playlist_data, CNT.PLAYLIST_JSON_PATH)
 
     spotify_dml = DataManipulation()
 
-    artist_data, artist_keys = api_instance.get_spotify_data(api_type="ARTISTS", input_data=spotify_dml.get_artist_ids(CNT.PLAYLIST_CSV_PATH, "track_album_artists_1_uri"))
+    artist_data, artist_keys = api_instance.get_spotify_data(api_type="ARTISTS", input_data=spotify_dml.get_artist_ids(playlist_data, "track_album_artists_1_uri"))
     print(f"Keys: {artist_keys}")
 
     write_data.write_playlist_csv(artist_data, CNT.ARTIST_CSV_PATH, CNT.ARTIST_KEYS)
     write_data.write_json(artist_data, CNT.ARTIST_JSON_PATH)
 
-    audio_data, audiio_keys = api_instance.get_spotify_data(api_type="AUDIO_FEATURES", input_data=spotify_dml.get_track_ids(CNT.PLAYLIST_CSV_PATH, "track_id"))
+    audio_data, audiio_keys = api_instance.get_spotify_data(api_type="AUDIO_FEATURES", input_data=spotify_dml.get_track_ids(playlist_data, "track_id"))
     print(f"Keys: {audiio_keys}")
 
-    # write_data.write_playlist_csv(audio_data, CNT.AUDIO_CSV_PATH, CNT.AUDIO_KEYS)
+    write_data.write_playlist_csv(audio_data, CNT.AUDIO_CSV_PATH, CNT.AUDIO_KEYS)
     write_data.write_json(audio_data, CNT.AUDIO_JSON_PATH)
