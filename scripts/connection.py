@@ -48,12 +48,15 @@ class SnowflakeConnector:
         print(f"Created DataWarehouse: {dw_name}, Database: {db_name} and Schema: {schema_name}")
 
     def create_table(self, dw_name, db_name, schema_name, table_name, table_schema):
-        self.execute_query(f"""USE WAREHOUSE {dw_name}
-                           USE DATABASE {db_name}
-                           USE SCHEMA {schema_name}""")
+        self.use_env(dw_name, db_name, schema_name)
         table_query = f"CREATE OR REPLACE TABLE {table_name}{table_schema}"
 
         self.execute_query(table_query)
+
+    def use_env(self, dw_name, db_name, schema_name):
+        self.execute_query(f"""USE WAREHOUSE {dw_name}
+                           USE DATABASE {db_name}
+                           USE SCHEMA {schema_name}""")
 
     def close(self):
         if self.cursor:

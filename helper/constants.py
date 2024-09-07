@@ -46,9 +46,26 @@ AUDIO_KEYS = {
 }
 
 # Snowflake Table Schema
-AUDIO_FEATURES_SCHEMA = "(danceability float, energy float, key integer, loudness float, mode integer, \
-                         speechiness float, acousticness float, instrumentalness float, \
-                         liveness float, valence float, tempo float, id STRING(50), duration_ms integer,\
-                         time_signature integer)"
+PLAYLIST_SCHEMA = "(track_id STRING, track_uri STRING, track_name STRING, track_album_id STRING, track_album_uri STRING, \
+                    track_album_name STRING, track_album_artists_id STRING, track_album_artists_name STRING, track_album_artists_uri STRING, \
+                    track_album_artists_type STRING, track_album_release_date DATE, track_album_release_date_precision STRING, track_album_album_type STRING, \
+                    track_album_type STRING, track_disc_number INTEGER, track_track_number INTEGER, track_duration_ms INTEGER, track_popularity INTEGER, \
+                    added_by_id STRING, added_by_uri STRING, added_by_type STRING, added_at TIMESTAMP_NTZ, track_track INTEGER, track_album_total_tracks INTEGER)"
 
-ARTISTS_SCHEMA = "(followers_count integer, name STRING(50), artist_genres STRING(50), id STRING(50), popularity integer)"
+AUDIO_FEATURES_SCHEMA = "(id STRING(50), danceability float, energy float, key integer, loudness float, \
+                         mode integer, speechiness float, acousticness float, instrumentalness float, \
+                         liveness float, valence float, tempo float, duration_ms integer, time_signature integer)"
+
+ARTISTS_SCHEMA = "(name STRING(50), artist_genres STRING(50), id STRING(50), popularity integer, followers_count integer)"
+
+PLAYLIST_COLS = ['track_id', 'track_uri', 'track_name', 'track_album_id', 'track_album_uri', 'track_album_name', 'track_album_artists_id',
+                 'track_album_artists_name', 'track_album_artists_uri', 'track_album_artists_type', 'track_album_release_date', 'track_album_release_date_precision',
+                 'track_album_album_type', 'track_album_type', 'track_disc_number', 'track_track_number', 'track_duration_ms', 'track_popularity', 'added_by_id',
+                 'added_by_uri', 'added_by_type', 'added_at', 'track_track', 'track_album_total_tracks']
+
+
+ARTIST_COLS = ["name", "artist_genres", "id", "popularity", "followers_count"]
+
+AUDIO_COLS = ['id', 'danceability', 'energy', 'key', 'loudness', 'mode', 
+              'speechiness', 'acousticness', 'instrumentalness', 'liveness', 
+              'valence', 'tempo', 'duration_ms', 'time_signature']

@@ -5,6 +5,7 @@ __pycache__/
 
 data/notes.txt
 helper/db_constants.py
+helper/exploration.ipynb
 
 # C extensions
 *.so
