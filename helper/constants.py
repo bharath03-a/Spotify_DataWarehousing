@@ -49,8 +49,8 @@ AUDIO_KEYS = {
 PLAYLIST_SCHEMA = "(track_id STRING, track_uri STRING, track_name STRING, track_album_id STRING, track_album_uri STRING, \
                     track_album_name STRING, track_album_artists_id STRING, track_album_artists_name STRING, track_album_artists_uri STRING, \
                     track_album_artists_type STRING, track_album_release_date DATE, track_album_release_date_precision STRING, track_album_album_type STRING, \
-                    track_album_type STRING, track_disc_number INTEGER, track_track_number INTEGER, track_duration_ms INTEGER, track_popularity INTEGER, \
-                    added_by_id STRING, added_by_uri STRING, added_by_type STRING, added_at TIMESTAMP_NTZ, track_track INTEGER, track_album_total_tracks INTEGER)"
+                    track_album_type STRING, track_disc_number INTEGER, track_number INTEGER, track_duration_ms INTEGER, track_popularity INTEGER, \
+                    added_by_id STRING, added_by_uri STRING, added_by_type STRING, added_at TIMESTAMP_NTZ, track INTEGER, track_album_total_tracks INTEGER)"
 
 AUDIO_FEATURES_SCHEMA = "(id STRING(50), danceability float, energy float, key integer, loudness float, \
                          mode integer, speechiness float, acousticness float, instrumentalness float, \
@@ -60,12 +60,50 @@ ARTISTS_SCHEMA = "(name STRING(50), artist_genres STRING(50), id STRING(50), pop
 
 PLAYLIST_COLS = ['track_id', 'track_uri', 'track_name', 'track_album_id', 'track_album_uri', 'track_album_name', 'track_album_artists_id',
                  'track_album_artists_name', 'track_album_artists_uri', 'track_album_artists_type', 'track_album_release_date', 'track_album_release_date_precision',
-                 'track_album_album_type', 'track_album_type', 'track_disc_number', 'track_track_number', 'track_duration_ms', 'track_popularity', 'added_by_id',
-                 'added_by_uri', 'added_by_type', 'added_at', 'track_track', 'track_album_total_tracks']
+                 'track_album_album_type', 'track_album_type', 'track_disc_number', 'track_number', 'track_duration_ms', 'track_popularity', 'added_by_id',
+                 'added_by_uri', 'added_by_type', 'added_at', 'track', 'track_album_total_tracks']
 
+PLAYLIST_MELT_COLS = ['track_album_artists_id', 'track_album_artists_name', 'track_album_artists_uri', 'track_album_artists_type']
 
 ARTIST_COLS = ["name", "artist_genres", "id", "popularity", "followers_count"]
 
 AUDIO_COLS = ['id', 'danceability', 'energy', 'key', 'loudness', 'mode', 
               'speechiness', 'acousticness', 'instrumentalness', 'liveness', 
               'valence', 'tempo', 'duration_ms', 'time_signature']
+
+COLS_USE = list(filter(lambda x: x not in PLAYLIST_MELT_COLS, PLAYLIST_COLS))
+PLAYLIST_MELT = [
+                {
+                    "id_vars": COLS_USE + [
+                        'track_album_artists_1_name', 'track_album_artists_2_name', 'track_album_artists_3_name',
+                        'track_album_artists_1_uri', 'track_album_artists_2_uri', 'track_album_artists_3_uri',
+                        'track_album_artists_1_type', 'track_album_artists_2_type', 'track_album_artists_3_type'
+                    ],
+                    "value_vars": ['track_album_artists_1_id', 'track_album_artists_2_id', 'track_album_artists_3_id'],
+                    "var_name": 'variable_id',
+                    "value_name": 'track_album_artists_id'
+                },
+                {
+                    "id_vars": COLS_USE + ['track_album_artists_id',
+                        'track_album_artists_1_uri', 'track_album_artists_2_uri', 'track_album_artists_3_uri',
+                        'track_album_artists_1_type', 'track_album_artists_2_type', 'track_album_artists_3_type'
+                    ],
+                    "value_vars": ['track_album_artists_1_name', 'track_album_artists_2_name', 'track_album_artists_3_name'],
+                    "var_name": 'variable_name',
+                    "value_name": 'track_album_artists_name'
+                },
+                {
+                    "id_vars": COLS_USE + ['track_album_artists_id', 'track_album_artists_name',
+                        'track_album_artists_1_type', 'track_album_artists_2_type', 'track_album_artists_3_type'
+                    ],
+                    "value_vars": ['track_album_artists_1_uri', 'track_album_artists_2_uri', 'track_album_artists_3_uri'],
+                    "var_name": 'variable_uri',
+                    "value_name": 'track_album_artists_uri'
+                },
+                {
+                    "id_vars": COLS_USE + ['track_album_artists_id', 'track_album_artists_name', 'track_album_artists_uri'],
+                    "value_vars": ['track_album_artists_1_type', 'track_album_artists_2_type', 'track_album_artists_3_type'],
+                    "var_name": 'variable_type',
+                    "value_name": 'track_album_artists_type'
+                }
+            ]

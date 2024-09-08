@@ -45,7 +45,7 @@ class DataManipulation():
     def get_track_ids(self, data, col):
         data = self.read_data(data)
         tracks = data[col].unique().tolist()
-        print(type(tracks))
+
         return tracks
 
 if __name__ == '__main__':
