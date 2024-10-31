@@ -67,14 +67,14 @@ The processed data and dashboards allow users to:
 
 Here are some previews of the dashboards created:
 
+#### *Spotify Playlist Analysis*
 ![Dashboard 1 - Plalist Trends](img/page_1.png)
-*Spotify Playlist Analysis*
 
+#### *Spotify Track Analysis*
 ![Dashboard 2 - Track Features](img/page_2.png)
-*Spotify Track Analysis*
 
+#### *Spotify Artist Analysis*
 ![Dashboard 3 - Artist Trends](img/page_3.png)
-*potify Artist Analysis*
 
 ## Future Work
 - Integrate additional Spotify data points, such as user listening history.
