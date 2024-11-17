@@ -6,6 +6,11 @@
 
 This project leverages the Spotify Web API to extract, process, and warehouse Spotify music data, providing a foundation for insightful analysis and visualizations on top of the processed data. It involves data collection, cleaning, and integration with Snowflake for efficient data storage and querying, followed by dashboard creation for exploring trends in music playlists, tracks, and artists.
 
+## Tableau Visualization
+
+Explore the Spotify Playlist Analysis dashboard on Tableau:  
+[Spotify Playlist Analysis](https://public.tableau.com/views/SpotifyPlaylistAnalysis_17303634617490/First?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Table of Contents
 
 - [Motivation](#motivation)
