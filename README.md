@@ -8,8 +8,7 @@ This project leverages the Spotify Web API to extract, process, and warehouse Sp
 
 ## Tableau Visualization
 
-Explore the Spotify Playlist Analysis dashboard on Tableau:  
-[Spotify Playlist Analysis](https://public.tableau.com/views/SpotifyPlaylistAnalysis_17303634617490/First?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Explore the Spotify Playlist Analysis dashboard on Tableau:  [Spotify Playlist Analysis](https://public.tableau.com/views/SpotifyPlaylistAnalysis_17303634617490/First?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Table of Contents
 
